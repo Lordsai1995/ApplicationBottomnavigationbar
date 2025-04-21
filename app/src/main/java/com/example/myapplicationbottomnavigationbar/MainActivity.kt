@@ -71,6 +71,8 @@ fun MyBottomAppBar(){
  Scaffold (
      bottomBar = {
          BottomAppBar(
+
+             
              containerColor = GreenJc
          ) {
              IconButton(
